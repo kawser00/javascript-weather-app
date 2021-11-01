@@ -1,6 +1,5 @@
 {
   "name": "weather-app",
-  "main": "main.js",
   "source": "index.html",
   "scripts": {
     "start": "parcel",
