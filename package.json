@@ -1,0 +1,17 @@
+{
+  "name": "weather-app",
+  "main": "main.js",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  
+  "author": "Kawser",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
+
+

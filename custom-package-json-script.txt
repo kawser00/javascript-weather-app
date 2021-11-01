@@ -1,0 +1,13 @@
+
+{
+  "name": "weather-app",
+  "main": "main.js",
+  "scripts": {
+    "dev": "npx parcel index.html"
+  },
+  "author": "Kawser",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
